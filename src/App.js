@@ -22,7 +22,7 @@ var data = [
   {id:3, name:"Christine Lobowski", age:"42", col:"green", dob:"22/05/1982"},
   {id:4, name:"Brendon Philips", age:"125", col:"orange", dob:"01/08/1980"},
   {id:5, name:"Margret Marmajuke", age:"16", col:"yellow", dob:"31/01/1999"},
-  {id:6, name:"Margret Marmajuke2", age:"16", col:"yellow", dob:"31/01/1999"},
+  {id:6, name:"Margret Marmajuke22", age:"16", col:"yellow", dob:"31/01/1999"},
   {id:7, name:"Margret Marmajuke3", age:"16", col:"yellow", dob:"31/01/1999"},
   {id:8, name:"Margret Marmajuke4", age:"16", col:"yellow", dob:"31/01/1999"},
   {id:9, name:"Margret Marmajuke5", age:"16", col:"yellow", dob:"31/01/1999"},
